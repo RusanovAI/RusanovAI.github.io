@@ -1,0 +1,19 @@
+body
+		{
+		background: #FFFFFF url(22.jpg) ;
+		background-position:center center; 
+		background-repeat: no-repeat; 
+		 background-size: cover;
+		 background-attachment: fixed;      
+		
+        }
+		div.container {
+  width: 96%;
+  max-width: 600px;
+  max-height:1px;
+  margin-right:500px; 
+}
+img {
+  width: 100%; 
+  height: auto; 
+}
